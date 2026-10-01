@@ -1,8 +1,8 @@
 public class Q1{
     public static void main(String[] args) {
 
-                String name = "Anshika Tyagi";
-                int age = 21;
+                String name = "Abhay Bhardwaj";
+                int age = 23;
                 String college = "COER University";
 
                 System.out.println("Name: " + name);
